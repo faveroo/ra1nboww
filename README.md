@@ -37,7 +37,7 @@
     <a href="https://github.com/ra1nboww" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> </a>
     <a href="https://github.com/ra1nboww" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </a>
  
- ![Snake animation](https://github.com/Faveroslakkkj/Faveroslakkkj/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ra1nboww/ra1nboww/blob/output/github-contribution-grid-snake.svg)
  
  
   
