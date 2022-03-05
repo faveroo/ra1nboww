@@ -26,9 +26,8 @@
    <a href="https://www.twitter.com/rainpobre" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
    <a href="https://open.spotify.com/user/893unysyk1i8rzc3f9zkt4nyn" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <a href="https://soundcloud.com/faverokkj" target="_blank"> <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"></a>
-  <a href="https://discord.gg/tHAbDudHpt" target="_blank"> <img src="https://img.shields.io/badge/Discord-0088CC?logo=discord&logoColor=white&style=for-the-badge"> </a>
+   <a href="https://discord.gg/tHAbDudHpt" target="_blank"> <img src="https://img.shields.io/badge/Discord-0088CC?logo=discord&logoColor=white&style=for-the-badge"> </a>
    <a href="https://steamcommunity.com/profiles/76561199109226253/" target="_blank"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-   
    <a href="https://www.youtube.com/channel/UCxqVePCpiMkskSfdO8T0mLA" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
    
    
