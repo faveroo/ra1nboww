@@ -21,14 +21,22 @@
    <h1> Social </h1>
    
   <a href="https://instagram.com/favero.gb" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   
   <a href="https://www.tiktok.com/@faavero?fromUrl=%2Frainznn&lang=pt-BR" target="_blank"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-  <a href="https://www.reddit.com/user/raindelas.sx" target="_blank"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+   
+  <a href="https://www.reddit.com/user/InsideOdd7447" target="_blank"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+   
   <a href="https://www.twitter.com/rainpobre" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+   
   <a href="https://open.spotify.com/user/893unysyk1i8rzc3f9zkt4nyn" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+   
   <a href="https://soundcloud.com/faverokkj" target="_blank"> <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"></a>
+   
   <img src="https://img.shields.io/badge/Discord-0088CC?logo=discord&logoColor=white&style=for-the-badge">
   <a href="https://steamcommunity.com/profiles/76561199109226253/" target="_blank"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+   
    <a href="https://www.youtube.com/channel/UCxqVePCpiMkskSfdO8T0mLA" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+   
    
  </div>
   
