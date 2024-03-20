@@ -1,14 +1,14 @@
 <div align="center">
   <a href="https://github.com/faveroo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ra1nboww&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=blue"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1nboww&layout=compact&langs_count=7&theme=dark&title_color=blue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faveroo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=blue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&langs_count=7&theme=dark&title_color=blue"/>
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ra1nboww-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ra1nboww-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ra1nboww-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="ra1nboww-admfofo" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/931380276322521091/941799468662140998/Cat_Glitter_GIF_-_Cat_Glitter_Kitty_-_Discover__Share_GIFs.gif">
+  <img align="right" alt="faveroo-admfofo" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/931380276322521091/941799468662140998/Cat_Glitter_GIF_-_Cat_Glitter_Kitty_-_Discover__Share_GIFs.gif">
  </div>
  
  ##
