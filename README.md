@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/faveroo">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faveroo)](https://github.com/anuraghazra/github-readme-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faveroo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=blue"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&langs_count=7&theme=dark&title_color=blue"/>
 </div>
