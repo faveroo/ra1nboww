@@ -5,9 +5,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="ra1nboww-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ra1nboww-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ra1nboww-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="faveroo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="faveroo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="faveroo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="faveroo-admfofo" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/931380276322521091/941799468662140998/Cat_Glitter_GIF_-_Cat_Glitter_Kitty_-_Discover__Share_GIFs.gif">
  </div>
  
@@ -35,10 +35,10 @@
   
   <div>
     <h1> Sistemas </h1>
-    <a href="https://github.com/ra1nboww" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> </a>
-    <a href="https://github.com/ra1nboww" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </a>
+    <a href="https://github.com/faveroo" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> </a>
+    <a href="https://github.com/faveroo" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </a>
  
- ![Snake animation](https://github.com/ra1nboww/ra1nboww/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/faveroo/faveroo/blob/output/github-contribution-grid-snake.svg)
  
  
   
