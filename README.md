@@ -11,6 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=faveroo&show_icons=true" />
 </picture>
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&hide=html,css&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="faveroo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
